@@ -1,2 +1,12 @@
 dsds
+<<<<<<< HEAD
 version 2
+=======
+segundo cambi
+<<<<<<< HEAD
+ssasas
+=======
+
+este cambio es desde la web
+>>>>>>> 2c54aa724944e37582c5c5bc255e60d1fc61a165
+>>>>>>> 307c16facd47507bc0f5d2e32a2cef7681575bbb
